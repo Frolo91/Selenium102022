@@ -7,7 +7,7 @@ public class Ejemplo_Arreglo {
 		int intarray[];
 		int [] intarray2;
 		byte bytearray[];
-		boolean booleArray[];
+		boolean booleArray[];// pruebas
 		
 		// Declarar arreglos 
 		String[] arr;
