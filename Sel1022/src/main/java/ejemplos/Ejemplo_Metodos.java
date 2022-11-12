@@ -6,7 +6,10 @@ public class Ejemplo_Metodos {
 		
 		
 		int resultado = suma (55,66); // llamo al metodo 
-		System.out.print(resultado);
+		System.out.println(resultado);
+		
+		int resultado2 = suma (2,2,9); // llamo al metodo sobrecargado
+		System.out.print(resultado2);
 
 	}
 	public static int suma(int a, int b){// construyo el metodo 
@@ -15,5 +18,12 @@ public class Ejemplo_Metodos {
 		return c;// retorno el resultado 
 		
 	}
+	
+	public static int suma(int a, int b,int c){// construyo el metodo sobrecargado de diferentes parametros
+		
+		int d = a +b +c; 
+		return d; 
+	}
+	
 
 }

@@ -4,10 +4,10 @@ public class Ejemplo_Arreglo {
 
 	public static void main(String[] args) {
 	
-		int intarray[];
-		int [] intarray2;
-		byte bytearray[];
-		boolean booleArray[];// pruebas pruebas 2
+		//int intarray[];
+		//int [] intarray2;
+		//byte bytearray[];
+		//boolean booleArray[];// pruebas pruebas 2
 		
 		// Declarar arreglos 
 		String[] arr;
