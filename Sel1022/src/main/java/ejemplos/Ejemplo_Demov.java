@@ -1,6 +1,6 @@
 package ejemplos;
 
-public class Ejemplo_Demo {
+public class Ejemplo_Demov {
 
 	public static void main(String[] args) {
 	
