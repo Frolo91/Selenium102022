@@ -7,14 +7,15 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 
 public class Selenium_test {
-
+//*************** Prueba inicial de muestra para abrir pantalla de google ********************
 	/*public static void main(String[] args) {
-		
+		//********---Clase para prueba de google *********
 		String exePath = "./driver/chromedriver.exe"; // the folder esta dentro de la direccion que agregue 
 		System.setProperty("webdriver.chrome.driver", exePath); // le indica a la propiedad de de donde lo va a sacar
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com");  */
 	
+	//********************* Prueba para otras paginas de preubas **********
 public static void main(String[] args) throws InterruptedException {
 		
 		String exePath = "./driver/chromedriver.exe"; // the folder esta dentro de la direccion que agregue 
